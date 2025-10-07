@@ -1,0 +1,6 @@
+run = "python3 bot.py"
+language = "python3"
+entrypoint = "bot.py"
+
+[nix]
+channel = "stable-23.05"
